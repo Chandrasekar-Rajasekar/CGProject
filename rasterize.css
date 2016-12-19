@@ -1,0 +1,18 @@
+body{
+	background:#003300;
+}
+#canvases {
+    z-index: 10;
+}
+#canvases canvas{
+	display: block;
+    margin: 0 auto;
+	background: #000000;
+}
+#view p{
+	display: block;
+    margin: 0 auto;
+	color:#b3c6ff;
+	text-align: center;
+	font-size: 150%;
+}
